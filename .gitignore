@@ -79,9 +79,7 @@ Release/
 #  Proteus - temporary and backup files
 # ------------------------------------------------------------------------------
 # The .pdsprj design file is KEPT.
-Backup of *.pdsprj
-Last Loaded *.pdsprj
-*.pdsprj.*.workspace
+*.pdsprj
 *.workspace
 *.pdsbak
 *.pdsclip
